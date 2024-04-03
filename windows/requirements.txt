@@ -1,0 +1,2 @@
+pywin32
+git+https://github.com/tjguk/wmi.git#egg=wmi
